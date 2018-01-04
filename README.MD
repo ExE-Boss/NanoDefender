@@ -2,6 +2,9 @@
 
 An anti-adblock defuser for Nano Adblocker
 
+*Note: Version is just a number, the you see different version available to different browsers then chances are a patch is only needed for 
+one browser.*
+
 ### [Get it for Chrome](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 
 ### [(Beta) Get it for Firefox](https://addons.mozilla.org/firefox/addon/real-nano-defender/)
