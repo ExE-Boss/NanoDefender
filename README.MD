@@ -12,7 +12,7 @@ An anti-adblock defuser for Nano Adblocker
 
 ### [Firefox version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/41)
 
-### [Edge version discuttion thread](https://github.com/NanoAdblocker/NanoCore/issues/40)
+### [Edge version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/40)
 
 ## Report a problem
 
