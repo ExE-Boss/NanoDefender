@@ -2,17 +2,17 @@
 
 An anti-adblock defuser for Nano Adblocker
 
-*Note: If you see different version available to different browsers then chances are a patch is only needed for one browser.*
+*Note: If you see different version available to different browsers then chances are that a patch is only needed for one browser.*
 
 ### [Get it for Chrome](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 
-### [(Beta) Get it for Firefox](https://addons.mozilla.org/firefox/addon/real-nano-defender/)
+### [Get it for Firefox (Beta)](https://addons.mozilla.org/firefox/addon/real-nano-defender/)
 
 ## For developers
 
 ### [Firefox version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/41)
 
-### [Edge version discuttion thread](https://github.com/NanoAdblocker/NanoCore/issues/40)
+### [Edge version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/40)
 
 ## Report a problem
 
@@ -30,4 +30,4 @@ For hard anti-adblock (allow ads or leave type), missed ads, and popup, report t
 
 For any other filter issues, report to [NanoFilters](https://github.com/NanoAdblocker/NanoFilters). 
 
-For bugs, suggestions, and questions, report to [NanoCore](https://github.com/NanoAdblocker/NanoCore). 
+For bugs, suggestions or questions report to [NanoCore](https://github.com/NanoAdblocker/NanoCore). 
