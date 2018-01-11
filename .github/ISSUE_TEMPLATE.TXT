@@ -1,7 +1,7 @@
 <!--
 For hard anti-adblock (allow ads or leave type), open issue in uAssets instead (unless they do not have a solution): 
 https://github.com/uBlockOrigin/uAssets
-If you are using Nano Adblocker, your uBlock Origin version is in About section of Nano Dashboard. 
+If you are using Nano Adblocker, your uBlock Origin version is in About section of Nano Dashboard
 -->
 
 ### Test link (required): 
@@ -20,16 +20,26 @@ Your screenshot should look something like this: https://i.imgur.com/qnVB0K7.png
 -->
 
 
-### Environment (Required)
-
-- Operating System and Version: 
-- Browser and Version: 
-- Nano Adblocker Version: 
-
 ### Explain what was not right (optional if obvious): 
 
 
 ### Reproduction steps (optional if trivial): 
+
+
+### Environment (Required): 
+
+- Operating System and Version: 
+- Browser and Version: 
+- Adblocker and Version: 
+
+
+#### Your filter lists (Required): 
+<!--
+List filters you have enabled or disabled from the default settings
+-->
+
+
+#### Your custom filters (Required if you have any): 
 
 
 ### Add everything else that you believe to be useful below (optional): 

@@ -106,12 +106,14 @@ a.init = () => {
         chrome.runtime.openOptionsPage();
     });
 
-    if (a.isFirefox) {
-        // TODO
-    } else {
+    {
+        let NanoAdblockerExtensionID = "gabbbocakeomblphkmmnoamkioajlkfo";
+        if (a.isFirefox) {
+            NanoAdblockerExtensionID = "{acf5b849-adb0-4004-b4ff-7f5332f48567}";
+        }
         setTimeout(() => {
             chrome.runtime.sendMessage(
-                "gabbbocakeomblphkmmnoamkioajlkfo", //Nano Adblocker
+                NanoAdblockerExtensionID,
                 {
                     data: "Nano Defender Enabled",
                 },
@@ -220,7 +222,7 @@ a.getTabURL = (() => {
     });
 
     chrome.webNavigation.onCommitted.addListener((details) => {
-        if (!tabs[details.tabId]) {
+        if (!tabs[details.tabId] || details.frameId === 0) {
             tabs[details.tabId] = {};
         }
         tabs[details.tabId][details.frameId] = details.url;

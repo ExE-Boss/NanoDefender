@@ -319,10 +319,6 @@ uol.com.br##.bannersticky-top:has(div.ads-wrapper)
 ||nowvideo.ec^$inline-script
 ||nowvideo.li^$inline-script
 ||ewingoset.info^$inline-script
-! === rapidvideo.com
-! === https://github.com/jspenguin2017/uBlockProtector/issues/246
-rapidvideo.com##script:inject(noeval.js)
-rapidvideo.com##script:inject(abort-on-property-read.js, popns)
 ! === nana10.co.il
 ||cloudvideoplatform.com/advert.jpg$image,redirect=1x1-transparent.gif,domain=nana10.co.il
 ! === receive-a-sms.com
@@ -622,8 +618,8 @@ randaris-anime.net##.adblock-box
 reviewmeta.com##.ad_gu_tr
 ! === androidsage.com
 androidsage.com##script:inject(abort-on-property-read.js, blckad)
-! === stern.de, bento.de, pcgamer.com
-stern.de,bento.de,pcgamer.com##script:inject(abort-on-property-read.js, _sp_.mms)
+! === bento.de, pcgamer.com
+bento.de,pcgamer.com##script:inject(abort-on-property-read.js, _sp_.mms)
 ! === cwseed.com
 cwseed.com##script:inject(abort-on-property-read.js, wc.url)
 ! === wasabisyrup.com
