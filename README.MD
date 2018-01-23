@@ -8,7 +8,7 @@ Anti-adblock defuser for Nano Adblocker
 
 ### [(Beta) Get it for Firefox](https://addons.mozilla.org/firefox/addon/real-nano-defender/)
 
-### [(Dev) Get it for Edge](/Notes/InstallationOnEdge.MD#installation-on-edge)
+### [(Dev) Get it for Edge](https://github.com/NanoAdblocker/NanoCore/blob/master/Notes/InstallationOnEdge.MD#installation-on-edge)
 
 ## For developers
 
