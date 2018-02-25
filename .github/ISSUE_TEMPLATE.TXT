@@ -1,46 +1,47 @@
 <!--
-For hard anti-adblock (allow ads or leave type), open issue in uAssets instead (unless they do not have a solution): 
+More information you provide faster will your issue be resolved!
+
+For missed ads, popup, and hard (allow ads or leave type) anti-adblock, please open issue in uAssets instead:
 https://github.com/uBlockOrigin/uAssets
-If you are using Nano Adblocker, your uBlock Origin version is in About section of Nano Dashboard
+uBlock Origin version that Nano Adblocker uses can be found in About section of Nano Dashboard.
+
+For suggestions and bugs, please open issue in NanoCore instead:
+https://github.com/NanoAdblocker/NanoCore/issues
 -->
+### URLs where this issue occurs (Required)
 
-### Test link (required): 
+
+### Screenshots (Required)
 
 
-### Screenshot of the web page (including address bar and extension icons) (required): 
+### Screenshot of console (Required, press `F12` to open the console)
+
+
+### Describe the issue (Optional if obvious)
+
+
+### Reproduction Steps (Optional if trivial)
 <!--
-Your screenshot should look something like this: https://i.imgur.com/UiKwWc7.png
-You are required to show all extension icons, you can disable unrelated extensions if you want to keep them private
+I cannot read your mind, write down what is in your head!
 -->
 
 
-### Screenshot of the console (press `F12` to bring up the console) (required): 
-<!--
-Your screenshot should look something like this: https://i.imgur.com/qnVB0K7.png
--->
+### Anything else you believe to be useful (Optional):
 
 
-### Explain what was not right (optional if obvious): 
-
-
-### Reproduction steps (optional if trivial): 
-
-
-### Environment (Required): 
+<!-- @nano-echo-setup -->
+#### Environment (Required)
 
 - Operating System and Version: 
 - Browser and Version: 
-- Adblocker and Version: 
+- Nano Adblocker Version: 
+- Nano Defender Version (Optional if you are not using it): 
 
-
-#### Your filter lists (Required): 
+#### Your filter lists (Required)
 <!--
-List filters you have enabled or disabled from the default settings
+List filters you have enabled or disabled from the default settings.
 -->
 
 
-#### Your custom filters (Required if you have any): 
-
-
-### Add everything else that you believe to be useful below (optional): 
+#### Your custom filters (Required if you have any)
 
