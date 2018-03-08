@@ -6,15 +6,15 @@ Anti-adblock defuser for Nano Adblocker
 
 ### [Get it for Chrome](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 
-### ~~[(Beta) Get it for Firefox](https://addons.mozilla.org/firefox/addon/real-nano-defender/)~~ https://github.com/NanoAdblocker/NanoCore/issues/41#issuecomment-364117216
-
 ### [(Dev) Get it for Edge](https://github.com/NanoAdblocker/NanoCore/blob/master/notes/install-in-edge.MD#install-in-edge)
+
+### ~~Get it for Firefox~~ Maintainer wanted!
 
 ## For developers
 
-### [Firefox version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/41)
-
 ### [Edge version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/40)
+
+### [Firefox version discussion thread](https://github.com/NanoAdblocker/NanoCore/issues/41)
 
 ## Report a problem
 
