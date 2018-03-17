@@ -8,7 +8,7 @@ Anti-adblock defuser for Nano Adblocker
 
 ### [(Dev) Get it for Edge](https://github.com/NanoAdblocker/NanoCore/blob/master/notes/install-in-edge.MD#install-in-edge)
 
-### ~~Get it for Firefox~~ Maintainers wanted!
+### Maintainers wanted for other browsers (open an issue and let me know)
 
 ## For developers
 
